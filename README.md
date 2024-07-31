@@ -1,0 +1,2 @@
+# AI-Trip-Planner
+ Technologies Used: Frontend: React, TailwindCSS. Backend: Firebase. AI Integration: Gemini AI. Created a responsive and aesthetically pleasing UI using TailwindCSS. Implemented AI-driven features for enhanced trip planning and personalized user recommendations. Managed real-time data synchronization and user authentication with Firebase. Demonstrated advanced skills in integrating multiple technologies to deliver a cohesive application experience.
