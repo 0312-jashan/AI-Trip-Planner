@@ -1,2 +1,8 @@
-# AI-Trip-Planner
- Technologies Used: Frontend: React, TailwindCSS. Backend: Firebase. AI Integration: Gemini AI. Created a responsive and aesthetically pleasing UI using TailwindCSS. Implemented AI-driven features for enhanced trip planning and personalized user recommendations. Managed real-time data synchronization and user authentication with Firebase. Demonstrated advanced skills in integrating multiple technologies to deliver a cohesive application experience.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
